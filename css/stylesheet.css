@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(111, 151, 73);
+}
+
+#firstBlock{
+    background-color: bisque;
+}
+
+#gate1{
+    visibility: hidden;
+}
+
+.triangle{
+    width: 0;
+    height: 0;
+}
+
+#triangle1{
+    border: 150px solid transparent;
+    border-top: 0;
+    border-bottom: 100px solid red;
+}
+
+#triangle2{
+    border: 150px solid transparent;
+    border-top: 0;
+    border-bottom: 200px solid blue;
+}
+
+#triangle3{
+    border: 150px solid transparent;
+    border-top: 0;
+    border-bottom: 300px solid rgb(255, 0, 255);
+}
+
+#triangle4{
+    border: 150px solid transparent;
+    border-top: 0;
+    border-bottom: 400px solid rgb(165, 183, 28);
+}
